@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebpack_chunk_test=self.webpackChunkwebpack_chunk_test||[]).push([[327],{327:(e,c,k)=>{k.r(c),console.log("a")}}]);
